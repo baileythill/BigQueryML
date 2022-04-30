@@ -36,7 +36,7 @@ The data science world as we know it is obsessed with building the most innovati
 
 BigQuery ML democratizes machine learning by letting SQL practitioners build models using existing SQL tools and skills.Companies can use their data analysts who understand the data but have limited knowledge and programming expertise.
 
-Our project will walk you through the project on how to use this amazing tool using a sample NCAA Basketball dataset.
+Our project will walk you through the project on how to use this amazing tool using a sample NCAA Basketball dataset. Using this dataset we will attempt to produce analyses on how some of the most fundamental tracked stats impact a teams chances of winning a basketball game. 
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
